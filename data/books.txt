@@ -1,0 +1,11 @@
+1	Küçük Prens	Antoine de Saint-Exupery	Can Çocuk Yayýnlarý	112	20/2/2015	ChildBook	true
+2	Bin Dokuz Yüz Seksen Dört	George Orwell	Can Yayýnlarý	648	8/6/1949	ScienceFictionBook	true
+3	Teoriden Uygulamalarla Algoritmalar	Vasif Nabiyev	Seçkin Yayýncýlýk	871	5/8/2007	ComputerBook	true
+4	Göðe Bakma Duraðý	Turgut Uyar	Yapý Kredi Yayýnlarý	112	4/8/2008	PoemBook	true
+5	Yapay Zeka	Atýnç Yýlmaz	Kodlab Yayýnevi	373	4/6/2017	ComputerBook	true
+6	Ýnsan Olmak	Engin Geçtan	Metis Yayýncýlýk	184	4/8/2016	PhyscologyBook	true
+7	Bilinçaltý	Sigmund Freud	Dorlion Yayýnevi	181	6/8/2018	PhyscologyBook	true
+8	Kýrmýzý Baþlýklý Kýz	Grimm Kardeþler	Arkadaþ Yayýncýlýk	64	4/5/2015	ChildBook	true
+9	Görünmez Adam	H.G.Wells	Ýthaki Yayýnlarý	232	9/11/2013	ScienceFictionBook	true
+10	Sevda Sözleri	Cemal Süreyya	Yapý Kredi Yayýnlarý	336	4/6/2016	PoemBook	true
+11	Ben Robot	Isaac Asimov	Ýthaki Yayýnlarý	248	26/4/2016	ScienceFictionBook	true
